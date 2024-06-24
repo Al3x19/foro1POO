@@ -1,0 +1,14 @@
+C:\Users\Laptop2\Desktop\TareasPOO\foro1\foro1\bin\Debug\net8.0\foro1.exe
+C:\Users\Laptop2\Desktop\TareasPOO\foro1\foro1\bin\Debug\net8.0\foro1.deps.json
+C:\Users\Laptop2\Desktop\TareasPOO\foro1\foro1\bin\Debug\net8.0\foro1.runtimeconfig.json
+C:\Users\Laptop2\Desktop\TareasPOO\foro1\foro1\bin\Debug\net8.0\foro1.dll
+C:\Users\Laptop2\Desktop\TareasPOO\foro1\foro1\bin\Debug\net8.0\foro1.pdb
+C:\Users\Laptop2\Desktop\TareasPOO\foro1\foro1\obj\Debug\net8.0\foro1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop2\Desktop\TareasPOO\foro1\foro1\obj\Debug\net8.0\foro1.AssemblyInfoInputs.cache
+C:\Users\Laptop2\Desktop\TareasPOO\foro1\foro1\obj\Debug\net8.0\foro1.AssemblyInfo.cs
+C:\Users\Laptop2\Desktop\TareasPOO\foro1\foro1\obj\Debug\net8.0\foro1.csproj.CoreCompileInputs.cache
+C:\Users\Laptop2\Desktop\TareasPOO\foro1\foro1\obj\Debug\net8.0\foro1.dll
+C:\Users\Laptop2\Desktop\TareasPOO\foro1\foro1\obj\Debug\net8.0\refint\foro1.dll
+C:\Users\Laptop2\Desktop\TareasPOO\foro1\foro1\obj\Debug\net8.0\foro1.pdb
+C:\Users\Laptop2\Desktop\TareasPOO\foro1\foro1\obj\Debug\net8.0\foro1.genruntimeconfig.cache
+C:\Users\Laptop2\Desktop\TareasPOO\foro1\foro1\obj\Debug\net8.0\ref\foro1.dll

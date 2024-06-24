@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Laptop2\\Desktop\\TareasPOO\\foro1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1656F42E-23C0-4671-A280-993642BD18A9}|foro1\\foro1.csproj|c:\\users\\laptop2\\desktop\\tareaspoo\\foro1\\foro1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1656F42E-23C0-4671-A280-993642BD18A9}|foro1\\foro1.csproj|solutionrelative:foro1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1656F42E-23C0-4671-A280-993642BD18A9}|foro1\\foro1.csproj|c:\\users\\laptop2\\desktop\\tareaspoo\\foro1\\foro1\\herencia\\cuentaahorros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1656F42E-23C0-4671-A280-993642BD18A9}|foro1\\foro1.csproj|solutionrelative:foro1\\herencia\\cuentaahorros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1656F42E-23C0-4671-A280-993642BD18A9}|foro1\\foro1.csproj|c:\\users\\laptop2\\desktop\\tareaspoo\\foro1\\foro1\\encapsulamiento\\cuentabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1656F42E-23C0-4671-A280-993642BD18A9}|foro1\\foro1.csproj|solutionrelative:foro1\\encapsulamiento\\cuentabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CuentaAhorros.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop2\\Desktop\\TareasPOO\\foro1\\foro1\\Herencia\\CuentaAhorros.cs",
+              "RelativeDocumentMoniker": "foro1\\Herencia\\CuentaAhorros.cs",
+              "ToolTip": "C:\\Users\\Laptop2\\Desktop\\TareasPOO\\foro1\\foro1\\Herencia\\CuentaAhorros.cs",
+              "RelativeToolTip": "foro1\\Herencia\\CuentaAhorros.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T12:33:12.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CuentaBancaria.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop2\\Desktop\\TareasPOO\\foro1\\foro1\\Encapsulamiento\\CuentaBancaria.cs",
+              "RelativeDocumentMoniker": "foro1\\Encapsulamiento\\CuentaBancaria.cs",
+              "ToolTip": "C:\\Users\\Laptop2\\Desktop\\TareasPOO\\foro1\\foro1\\Encapsulamiento\\CuentaBancaria.cs",
+              "RelativeToolTip": "foro1\\Encapsulamiento\\CuentaBancaria.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T12:25:07.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop2\\Desktop\\TareasPOO\\foro1\\foro1\\Program.cs",
+              "RelativeDocumentMoniker": "foro1\\Program.cs",
+              "ToolTip": "C:\\Users\\Laptop2\\Desktop\\TareasPOO\\foro1\\foro1\\Program.cs",
+              "RelativeToolTip": "foro1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T12:22:46.581Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
